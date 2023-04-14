@@ -12,6 +12,13 @@ public class khaibaovasudungbien {
         // Khai báo biến c co gia tri la true
         String s = "Hà Nội";
         //Khai báo biến s co gia tri chuoi la hanoi
+        System.out.println("i = " + i);
+        System.out.println("f = " + f);
+        System.out.println("d = " + d);
+        System.out.println("b = " + b);
+        System.out.println("c = " + c);
+        System.out.println("s = " + s);
+
 
     }
 }
