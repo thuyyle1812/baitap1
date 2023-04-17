@@ -33,11 +33,11 @@ public class baitap5 {
             case '*':
                 ketqua = num1 * num2;
                 break;
-            //su dung cong thuc toan tu
+            //su dung cong thuc toan tu chia
             case '/':
                 ketqua = num1 /num2;
                 break;
-            //su dung cong thuc toan tu chia
+            //su dung cong thuc toan tu chia phan tram
             case '%':
                 ketqua = num1 % num2;
                 break;
