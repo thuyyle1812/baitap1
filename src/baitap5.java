@@ -17,7 +17,7 @@ public class baitap5 {
         num2 = scanner.nextDouble();
         // sử dụng công thức toán tử
         System.out.println("nhap phep tinh(+,-,*,/,%)");
-        //nhap gia tri tu ban phim va lay kí tư đầu tiên
+        //nhap gia tri tu ban phim va lay kí tư đầu tiên va gan vao bien phep tinh
         pheptinh = scanner.next().charAt(0);
         //su dung switch case
         switch (pheptinh) {
@@ -42,9 +42,8 @@ public class baitap5 {
                 ketqua = num1 % num2;
                 break;
             default:
-                System.out.println("phep tinh khong hop le!");
+                System.out.println("phep tinh tren khong hop le!");
                 return;
         }
-
     }
 }
