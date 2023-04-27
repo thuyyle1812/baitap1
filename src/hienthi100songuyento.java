@@ -9,7 +9,7 @@ public class hienthi100songuyento{
         int numbers =100;
         int count = 0;
         int N = 2;
-        System.out.println("20 so nguyen to dau tien la:");
+        System.out.println("100 nguyen to dau tien la:");
         // dung while khi count < numbers thì:
         while (count < numbers) {
             // dung boolean kiểm tra xem n có phải là số nguyên tố không.
