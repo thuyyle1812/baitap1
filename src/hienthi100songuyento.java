@@ -1,14 +1,12 @@
-import java.util.Scanner;
-
-public class hienthi20songuyento {
+public class hienthi100songuyento{
     public static void main(String[] args) {
         //y tuong:
         //b1: Khai báo biến số nguyên,bien count, N
         //b2: dung while va dung boolean kiem tra xem co phai so nguyen to khong
         //b3:dung for de ktra dieu kien
-        //b4:ktra ket qua
+        //b4:dung vong lap for va dung cau truc dk
         // khai bao int
-        int numbers = 20;
+        int numbers =100;
         int count = 0;
         int N = 2;
         System.out.println("20 so nguyen to dau tien la:");
